@@ -1,0 +1,29 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <messages>
+
+   <message id="application-name">
+     Название приложения
+   </message>
+
+   <message id='sidebar-content'>
+     Бокововая панель
+   </message>
+   
+   <message id="development-note">
+      Разработано с использованием C++/Wt
+   </message>
+   
+   <message id="home-page-content">
+    Содержимое <strong>Домашней</strong> страницы
+    и ссылка на <a href='#/page1'>Страницу 1</a>
+   </message>
+   
+   <message id="page1-content">
+       Содержимое <strong>Страницы 1</strong> и ссылка 
+   </message>
+
+   <message id="home-link-text">
+       Домой
+   </message>
+   
+ </messages>

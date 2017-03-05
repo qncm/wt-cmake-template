@@ -1,0 +1,29 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <messages>
+
+   <message id='application-name'>
+     Application name
+   </message>
+
+   <message id='sidebar-content'>
+     Sidebar content
+   </message>
+   
+   <message id="development-note">
+       Developed with C++/Wt
+   </message>
+   
+   <message id="home-page-content">
+       <strong>Home</strong> content, 
+       link to <a href='#/page1'>Page 1</a>
+   </message>
+   
+   <message id="page1-content">
+       <strong>Page 1</strong> content, link to
+   </message>
+
+   <message id="home-link-text">
+       Home
+   </message>
+   
+ </messages>
