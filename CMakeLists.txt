@@ -2,6 +2,6 @@ CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 
 PROJECT(WT_EXAMPLE)
 
-SET (WT_CONNECTOR "wthttp" CACHE STRING "Connector used (wthttp or wtfcgi)")
+option (USE_WTFCGI "Use Wt FCGI instead of HTTP connector" OFF)
 
 ADD_SUBDIRECTORY(source)
